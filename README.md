@@ -1,13 +1,13 @@
 # Predicting Future Stock Prices
 
-This project focused on applying deep learning models (**LSTM, CNN, and GRU**) to predict future stock prices using historical stock data from **Apple and Microsoft**. The study aimed to determine which deep learning architecture performs best in capturing **market trends and price fluctuations**, while assessing the impact of **feature engineering and technical indicators** on forecasting accuracy.
+This project focused on applying deep learning models (**LSTM, CNN and GRU**) to predict future stock prices using historical stock data from **Apple and Microsoft**. The study aimed to determine which deep learning architecture performs best in capturing **market trends and price fluctuations** while assessing the impact of **feature engineering and technical indicators** on forecasting accuracy.
 
 ## Key Contributions & Achievements
 
 ### 📌 Data Collection & Preprocessing
 - Collected **seven years (2017–2024)** of historical stock price data from **Yahoo! Finance** using `yfinance`.
-- Applied **Exploratory Data Analysis (EDA)** to identify **trends, volatility, and daily returns**.
-- Implemented **MinMax scaling, sequence generation (60-day lookback window), and feature engineering**:
+- Applied **Exploratory Data Analysis (EDA)** to identify **trends, volatility and daily returns**.
+- Implemented **MinMax scaling, sequence generation (60-day lookback window) and feature engineering**:
   - **RSI (Relative Strength Index)**
   - **MACD (Moving Average Convergence Divergence)**
   - **Bollinger Bands**
@@ -19,9 +19,9 @@ This project focused on applying deep learning models (**LSTM, CNN, and GRU**) t
   - **Feature-engineered models:** LSTM, GRU, CNN with technical indicators.
 - Designed **custom architectures** with:
   - **Multiple layers**
-  - **Dropout regularization**
-  - **Batch normalization**
-  - **Adaptive learning rate optimization**
+  - **Dropout regularisation**
+  - **Batch normalisation**
+  - **Adaptive learning rate optimisation**
 
 ### 📌 Stock Price Forecasting & Comparative Analysis
 - Trained models to **predict stock prices for the next 4 days**.
@@ -43,4 +43,4 @@ This project focused on applying deep learning models (**LSTM, CNN, and GRU**) t
 - **Proposed future research** into **hybrid models integrating Transformer architectures** (e.g., Attention-based LSTMs) for improved performance.
 
 ---
-🚀 **This project demonstrates expertise in deep learning, financial time series forecasting, and quantitative analysis.**
+🚀 **This project demonstrates expertise in deep learning, financial time series forecasting and quantitative analysis.**
