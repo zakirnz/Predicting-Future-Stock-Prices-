@@ -1,2 +1,2 @@
 # Predicting-Future-Stock-Prices-
-This project focused on applying deep learning models (LSTM, CNN and GRU) to predict future stock prices using historical stock data from Apple and Microsoft. 
+This project focused on applying deep learning models (LSTM, CNN and GRU) to predict future stock prices using historical stock data from Apple and Microsoft. The study aimed to determine which deep learning architecture performs best in capturing market trends and price fluctuations while assessing the impact of feature engineering and technical indicators on forecasting accuracy.
